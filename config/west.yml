@@ -5,7 +5,9 @@ manifest:
     - name: sayu-hub
       url-base: https://github.com/sayu-hub
     - name: caksoylar  # <-- new entry
-      url-base: https://github.com/caksoylar  
+      url-base: https://github.com/caksoylar 
+    - name: badjeff
+      url-base: https://github.com/badjeff
   projects:
     - name: zmk
       remote: zmkfirmware
